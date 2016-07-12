@@ -1,0 +1,11 @@
+//文件夹>文件夹:由文件夹备份成文件夹
+//文件>文件:由文件备份成文件
+
+
+C:\NINI>X:\NINI
+
+D:\MyCodes>X:\MyCodes
+
+F:\Try\From>F:\Try\To
+
+C:\CJOIWENFA\SFEAWGAGWGVSEFJOAWFNLKFMFWA > D:\DFAOWFNAFWOIFWA\ANWAGEGJAMJWENAWEFJIOFAWMF

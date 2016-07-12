@@ -1,0 +1,10 @@
+C:\Users\11059\Desktop\BKup\BKup\bin\Debug\BKup.exe.config
+D:\Codes\GitHub\BKup\BKup\bin\Debug\BKup.exe.config
+D:\Codes\GitHub\BKup\BKup\bin\Debug\BKup.exe
+D:\Codes\GitHub\BKup\BKup\bin\Debug\BKup.pdb
+D:\Codes\GitHub\BKup\BKup\obj\Debug\BKup.csprojResolveAssemblyReference.cache
+D:\Codes\GitHub\BKup\BKup\obj\Debug\BKup.Main.resources
+D:\Codes\GitHub\BKup\BKup\obj\Debug\BKup.Properties.Resources.resources
+D:\Codes\GitHub\BKup\BKup\obj\Debug\BKup.csproj.GenerateResource.Cache
+D:\Codes\GitHub\BKup\BKup\obj\Debug\BKup.exe
+D:\Codes\GitHub\BKup\BKup\obj\Debug\BKup.pdb
